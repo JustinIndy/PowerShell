@@ -1,2 +1,2 @@
-:: JustIndy
+:: By JustIndy
 Disable-MMAgent -MemoryCompression
